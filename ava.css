@@ -1,0 +1,19 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.maxbytetech.com/wp-content/uploads/2018/11/Digital-Texture-Wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.ass{
+    text-align: center;
+    font-size: 5vmax;
+
+}
+.fuck{
+    color: aliceblue;
+    font-family: cursive;
+}

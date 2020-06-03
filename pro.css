@@ -1,0 +1,189 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://i.pinimg.com/originals/5e/e9/a3/5ee9a3401123a6a5631b8c8999026d9b.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#project{
+    margin: 0 10px 0;
+    padding: 0 10px 0;
+}
+.head{
+    font-size: 2.5vmax;
+    text-shadow: rgb(0, 0, 0) 0px 0px 80px;
+}
+.off
+{
+    color: aliceblue;
+}
+.row{
+    border-style: dashed;
+    border-width: 0.5rem;
+    border-color: rgb(243, 6, 6);
+    backdrop-filter: blur(20px);
+    
+}
+.jaja{
+    margin-right: 1%;
+        opacity: 0;
+        display: inline-block;
+        animation: animate 2s linear infinite;
+    }
+    @keyframes animate
+    {
+        0%
+        {
+            opacity: 1;
+            transform: rotateY(360deg);
+            filter: blur(0px);
+        }
+        25%
+        {
+            opacity: 1;
+            transform: rotateY(270deg);
+            filter: blur(0px);
+        }
+        50%
+        {
+            opacity: 1;
+            transform: rotateY(180deg);
+            filter: blur(0px);
+        }
+        75%
+        {
+            opacity: 1;
+            transform: rotateY(90deg);
+            filter: blur(0px);
+        }
+        100%
+        {
+            opacity: 1;
+            transform: rotateY(0deg);
+            filter: blur(0px);
+        }
+    }
+.haha{
+    text-align: center;
+    font-size: 2.2vmax;
+    color: rgb(220, 20, 20);
+    border-style: groove;
+    border-color: aliceblue;
+    background-color: aliceblue;
+}
+.haha1{
+    font-weight: 400;
+    color: white;
+    font-size: 1.8vmax;
+}
+.con{
+    color: darkorange;
+}
+.haha2
+{
+    font-size: 2vmax;
+    color: black;
+    text-decoration: overline;
+}
+.haha3{
+    color: black;
+    text-decoration-line: overline;
+    font-size: 2vmax;
+}
+@media (min-width: 992px) {
+	.logo-default {
+		display: inline-block !important;
+	}
+	.logo-small {
+		display: none !important;
+	}
+}
+
+@media (max-width: 991px) {
+	.logo-default {
+		display: none !important;
+	}
+	.logo-small {
+		display: inline-block;
+		width: 100px !important;
+		height: 50px !important;
+	}
+
+	#header .header-logo {
+		width: auto !important;
+		height: auto !important;
+	}
+}
+.pic1{
+    display: inline-block;
+    position: relative;
+}
+.haha5
+{
+    font-size: 2vmax;
+    color: black;
+    text-decoration: overline;
+}
+.haha6{
+    margin: 5%;
+    margin-top: 0%;
+}
+.butt{
+    padding: 10px 0 10px;
+    font-size: 1vmax;
+    border-style: double;
+    border-color: aliceblue;
+    color: black;
+    background-color: aliceblue;
+}
+.contain1{
+    margin-top: 10%;
+}
+.jaja1{
+    border-radius: 50%;
+}
+.jaja1{
+    margin-right: 1%;
+        opacity: 0;
+        display: inline-block;
+        animation: animate 2s linear infinite;
+    }
+    @keyframes animate
+    {
+        0%
+        {
+            opacity: 1;
+            transform: rotateY(360deg);
+            filter: blur(0px);
+        }
+        25%
+        {
+            opacity: 1;
+            transform: rotateY(270deg);
+            filter: blur(0px);
+        }
+        50%
+        {
+            opacity: 1;
+            transform: rotateY(180deg);
+            filter: blur(0px);
+        }
+        75%
+        {
+            opacity: 1;
+            transform: rotateY(90deg);
+            filter: blur(0px);
+        }
+        100%
+        {
+            opacity: 1;
+            transform: rotateY(0deg);
+            filter: blur(0px);
+        }
+    }
+    .haha7{
+        color: black;
+        font-size: 1.5vmax;
+    }

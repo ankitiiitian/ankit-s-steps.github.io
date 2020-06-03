@@ -1,0 +1,14 @@
+body{
+margin: 0;
+padding: 0;
+background: url(https://img.wallpapersafari.com/tablet/2560/1700/82/9/17Lsix.jpg);
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.soon{
+    font-size: 3.5vmax;
+    color: antiquewhite;
+    text-shadow: rgb(47, 14, 235) 0px 0px 20px;
+}

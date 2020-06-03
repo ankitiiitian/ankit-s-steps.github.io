@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Karla);
+
+body {
+ font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+   font-size: 30px;
+   padding-top: 100px;
+   background-image: url(https://wallpaperaccess.com/full/1625465.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  color: #000000;
+  font-weight: 600;
+
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+.cursor {
+    animation: blink 0.7s infinite;
+}
+.sec{
+    font-weight: 600;
+    margin: 1%;
+    margin-top: -5%;
+    color: rgb(50, 6, 248);
+    font-family: cursive;
+    font-size: 100px;
+}
+#about{
+    margin: 2%;
+}
+img{
+    border-radius: 50%;
+    width: 250px;
+}
