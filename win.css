@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://i95business.com/data/articles/img/articles-1376.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+
+}
+#winner{
+    display: inline-block;
+    position: relative;
+   
+}
+.haha{
+    font-size: 2.5vmax;
+    text-shadow:blue 0px 0px 40px;
+    padding: 0 0 0;
+    margin: 0 10px 0;
+    padding: 0 10px 10px;
+    float: left;
+
+}
+.cc{
+    color: aliceblue;
+}
+.contain{
+    display: table;
+    position: absolute;
+    padding: 10px 0 0;
+    margin-top: 13%;
+    margin-bottom: 10%;
+}
+.ass{
+ float: left;
+ color: black;
+ font-size: 1.5vmax;
+}
+.ass1{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+ .ass2{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+ .ass3{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+.ass4{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+.ass5{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+.ass6{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+.ass7{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+.ass8{
+    float: left;
+    color: black;
+    font-size: 1.5vmax;
+   }
+   .ak{
+       color: darkorange;
+   }
+   .ak1{
+       color: #fff;
+   }
+   .via{
+    width: fit-content;
+    margin-bottom: 60px;
+  }
+  .ja{
+      color: rgb(0, 0, 0);
+      border-style: double;
+      padding: 10px 5px 10px;
+      font-size: 2vmax;
+      font-weight: 600;
+      background-color: aliceblue;
+  }
