@@ -1,0 +1,142 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: url(https://i.pinimg.com/originals/18/3a/fb/183afbbc034a1b5f4c30e5331072d3b9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+}
+.contact{
+    padding: 0px 0 0;
+}
+.contact h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 4vmax;
+    color: rgb(248, 248, 248);
+}
+.contact h2{
+    font-size: 2vmax;
+    margin-bottom: 3%;
+    color: aliceblue;
+    color: rgb(227, 252, 5);
+}
+.border{
+    width: 100px;
+    height: 0px;
+    margin: 10px auto;
+}
+.contact-form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0px 10px;
+    overflow: hidden;
+}
+form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 0;
+    background: linear-gradient(white,#5881e0e3);
+    padding: 20px 40px;
+    outline: none;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    margin-bottom: 16px;
+    transition: 0.5s;
+}
+.form-control1{
+    display: block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    border: 0;
+    background: linear-gradient(white,#5881e0e3);
+    padding: 20px 40px;
+    outline: none;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    margin-bottom: 16px;
+    transition: 0.5s;
+}
+.form-control:focus{
+    box-shadow: 0 0 10px 4px rgb(195, 205, 50);
+}
+.form-control1:focus{
+    box-shadow: 0 0 10px 4px rgb(195, 205, 50);
+}
+textarea.form-control1{
+    height: 120px;
+}
+form .submit{
+    background: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 60px;
+    margin-top: 20px;
+
+}
+form .submit:hover
+{
+    background-color: rgb(96, 59, 228);
+    cursor: pointer;
+}
+
+.fuck{
+    margin-left: 5%;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 30px;
+    padding: 30px 30px 30px;
+    position: absolute;
+    text-align: center;
+    color: azure;
+    font-size: 1.5vmax;
+}
+button, html input[type=button], input[type=reset], input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+.jiji{
+    text-decoration: overline;
+}
+.ankit{
+    margin: 10px 0 10px;
+}
+.an{
+    color: white;
+    margin: 0 0 5px;
+}
+.ank{
+    margin: 5px 0 0;
+    border-style: double;
+    background-color: aliceblue;
+    color: black;
+    padding: 5px 3px 5px;
+}
+.ji{
+    margin: 3px 0 5px;
+}
+.via{
+    width: fit-content;
+    margin: 20px;
+    margin-bottom: -20px;
+  }
+  .ja{
+      color: rgb(0, 0, 0);
+      border-style: double;
+      padding: 10px 5px 10px;
+      font-size: 2vmax;
+      font-weight: 600;
+      background-color: aliceblue;
+  }
+ 
