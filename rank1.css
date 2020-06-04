@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.ecopetit.cat/wpic/mpic/212-2124160_4uv0t9-blue-polygon-wallpaper-4k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.head{
+    font-size: 4vmax;
+    color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+.row{
+    content: attr();
+    border-style: solid;
+    border-color: rgb(250, 196, 135);
+    margin: 15px 0 20px;
+    backdrop-filter: blur(30px);
+}
+.jiji
+{
+    margin-bottom: -10px;
+}
+.hi
+{
+    color: rgb(199, 191, 191);
+    padding: 5px 10px 5px;
+    font-size: 3vmax;
+ 
+}
+.lala{
+    font-size: 2vmax;
+    color: darkgoldenrod;
+}
+.np
+{
+    color: rgb(134, 247, 28);
+}
+.np1{
+    color: rgb(200, 255, 0);
+    text-decoration: underline;
+}
+.butt{
+    font-size: 1.5vmax;
+    border-style: double;
+    border-color: aliceblue;
+    background-color: rgb(43, 255, 0);
+    padding: 5px 5px 5px;
+}
+.za{
+    margin: 0 0 15px ;
+}
+.via{
+    width: fit-content;
+    margin-bottom: 60px;
+  }
+  .ja{
+      color: rgb(0, 0, 0);
+      border-style: double;
+      padding: 10px 5px 10px;
+      font-size: 2vmax;
+      font-weight: 600;
+      background-color: aliceblue;
+  }
