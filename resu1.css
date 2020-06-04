@@ -1,0 +1,14 @@
+body{
+margin: 0;
+padding: 0;
+background: url(https://www.ecopetit.cat/wpic/mpic/41-416176_1920x1080-cool-technology-wallpaper-with-resolution-free-hd.jpg);
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.soon{
+    font-size: 3.5vmax;
+    color: antiquewhite;
+    text-shadow: rgb(47, 14, 235) 0px 0px 20px;
+}
