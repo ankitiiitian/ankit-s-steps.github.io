@@ -448,7 +448,7 @@
 
   $(function(){
       $("#quote").typed({
-        strings: ["Hi! This is <i>Ankit Kumar</i>,<br/>Born in <i>13/07/2002</i><br/>Raised in <i>Prayagraj (India,U.P.)</i>.</br>Currently studying in <i>I.I.I.T. Guwahati</i> from C.S.E. Stream.</br>My hug interest in <i>Web Development</i>, <i>software development</i> as well as competative coding. If you want to work with me you are free to contact me as i am always ready to serve.</br>My hobby to make some creative painting in free time.I am also a <i>FINE ARTS CLUB HEAD COORDINATOR</i> in IIITG.I also like to watch movies, web shows and hear song.I love Travelling,I am also foody Person.<p></br><b>Push Yourself,Because No One Else Is Going To Do It For You!!!.</b>"],
+        strings: ["Hi! This is <i>Ankit Kumar</i>,<br/>Born in <i>13/07/2002</i><br/>Raised in <i>Prayagraj (India,U.P.)</i>.</br>Currently studying in <i>I.I.I.T. Guwahati</i> from C.S.E. Stream.</br>My huge interest in <i>Web Development</i>, <i>software development</i> as well as competative coding. If you want to work with me you are free to contact me as i am always ready to serve.</br>My hobby to make some creative painting in free time.I am also a <i>FINE ARTS CLUB HEAD COORDINATOR</i> in IIITG.I also like to watch movies, web shows and hear song.I love Travelling,I am also foody Person.<p></br><b>Push Yourself,Because No One Else Is Going To Do It For You!!!.</b>"],
         typeSpeed: 50
       });
   });
